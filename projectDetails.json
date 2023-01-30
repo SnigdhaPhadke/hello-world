@@ -1,0 +1,11 @@
+{
+  "Project" : "Employee Data",
+  "Release" : "23.00.00,23.00.01",
+  "Deploy Environment" : "CGDev",
+  "Project" : "Leave Management",
+  "Release" : "22.00.01,22.00.02",
+  "Deploy Environment" : "PROD,PRDSTG,INT",
+  "Project" : "Insurance Tracker",
+  "Release" : "20.00.0,21.00.00",
+  "Deploy Environment" : "INT,DEV"
+}
